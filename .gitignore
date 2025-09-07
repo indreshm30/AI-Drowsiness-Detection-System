@@ -126,3 +126,6 @@ Thumbs.db
 *.mp4
 test_images/
 test_videos/
+
+# Exclude reports folder
+reports/
