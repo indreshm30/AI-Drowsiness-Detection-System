@@ -104,10 +104,7 @@ drowsiness-detection-system/
 ├── alarm.wav                             # Alert sound file
 ├── shape_predictor_68_face_landmarks.dat # Dlib facial landmark model
 ├── README.md                             # Project documentation
-├── reports/                              # Project reports and documentation
-│   ├── Final report _merged.pdf
-│   ├── REPORT DDS.pdf
-│   └── Team_No77.pptx
+
 └── requirements.txt                      # Python dependencies (to be created)
 ```
 
@@ -185,7 +182,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👥 Authors
 
-- **Team No. 77** - Initial development
 - **Indresh** - Project lead and development
 
 ## 🙏 Acknowledgments
